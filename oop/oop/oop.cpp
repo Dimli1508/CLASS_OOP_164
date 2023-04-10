@@ -6,11 +6,10 @@ public:
 	int nim;
 	string nama;
 	void tampil() {
-		cout << "Nim : " << nim;
-		cout << "\nNama : " << nama;
+		cout << "Nim= " << nim;
+		cout << "\nNama= " << nama;
 	}
 };
 
 class MataKuliah {
-
-};
+private:
